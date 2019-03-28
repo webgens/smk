@@ -1,0 +1,24 @@
+.icon-@event_ty1_1{background-image:url(sp_p_all.png);background-position:-578px 0;width:590px;height:120px}.icon-@event_ty1_2{background-image:url(sp_p_all.png);background-position:-578px -124px;width:590px;height:120px}.icon-@event_ty1_3{background-image:url(sp_p_all.png);background-position:-578px -248px;width:590px;height:120px}.icon-@shoes{background-image:url(sp_p_all.png);background-position:0 0;width:285px;height:285px}.icon-@shoes2{background-image:url(sp_p_all.png);background-position:-289px 0;width:285px;height:285px}.icon-@shoes3{background-image:url(sp_p_all.png);background-position:0 -289px;width:285px;height:285px}
+  background-image: url(sp_p_all.png);
+  background-position: -578px -248px;
+  width: 590px;
+  height: 120px;
+}
+.icon-@shoes {
+  background-image: url(sp_p_all.png);
+  background-position: 0px 0px;
+  width: 285px;
+  height: 285px;
+}
+.icon-@shoes2 {
+  background-image: url(sp_p_all.png);
+  background-position: -289px 0px;
+  width: 285px;
+  height: 285px;
+}
+.icon-@shoes3 {
+  background-image: url(sp_p_all.png);
+  background-position: 0px -289px;
+  width: 285px;
+  height: 285px;
+}

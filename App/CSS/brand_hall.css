@@ -1,0 +1,46 @@
+﻿@charset "utf-8";
+
+/* ==============NIKE============== */
+.nike{font-family: NanumSquare}
+.nike .main img, .nike .nike-ad img{width: 100%}
+.nike .tit{text-align: center; font-size: 18px; font-weight: 800; letter-spacing: -1px; margin-bottom: 20px}
+.nike>article{margin-bottom: 40px}
+.nike>article.nike-swiper{padding-bottom: 44px}
+.nike>article.main{margin-bottom: 50px}
+.nike .nike-swiper .txt{position: relative; padding: 0 35px 15px; margin-bottom: 30px;}
+.nike .nike-swiper .txt:after{content: ""; display: block; clear: both}
+.nike .nike-swiper .tit{float: left; text-align: left; font-size: 24px;}
+.nike .nike-swiper .txt span{position: absolute; bottom: 0; right: 35px; font-size: 50px; border-bottom: 8px solid #282828; font-weight: 1000; }
+.nike .nike-swiper .txt button{position: absolute; left: 35px; bottom: 0; z-index: 1; padding: 5px 17px; background: #282828; color: #fff; font-size: 11px}
+.nike .nike-swiper .swiper-slide img{width: 100%; padding-left: 35px; padding-right: 10px}
+.nike .nike-swiper .swiper-pagination{position: absolute; bottom: 3px; left: 0; text-align: left; padding: 0 35px}
+.nike .nike-swiper .swiper-pagination-bullet {font-size: 12px; color: #c2c2c2; font-weight: 800; background: transparent; margin-right: 15px; width: auto}
+.nike .nike-swiper .swiper-pagination-bullet-active {color: #191919; font-weight: 800; margin-right: 15px; width: auto}
+.nike .swiper-container{margin-bottom: 52px}
+
+.nike .tab-panel{padding: 0 10px}
+.nike .tab-panel ul:after{content: ""; display: block; clear: both}
+.nike .tab-panel li{width: 50%; float: left; border: 1px solid #f0f0f0; margin-top: -1px}
+
+.nike .tab-panel li:nth-child(even){margin-left: -1px}
+.nike .tab-panel li img{width: 100%;}
+
+.nike-ad{background: #f5f5f5; }
+.nike-ad .txt{position: relative; height: 180px}
+.nike-ad .txt p{font-family: NanumSquare;font-weight: 800; text-align: center; font-size: 15px; margin: 0 auto; padding: 20px 0 15px; }
+.nike-ad .txt span{display: block; text-align: center; margin: 0 auto; word-break: keep-all; line-height: 1.4; font-weight: 400; font-size: 10px}
+.nike-ad .txt button{position: absolute; z-index: 1; top: 118px; left: 50%; -webkit-transform: translateX(-50%); transform: translateX(-50%); padding: 5px 15px; background: #282828; color: #fff; font-size: 11px}
+
+.nike .collection .tab-selector{margin-bottom: 32px; display: table; margin-left: auto; margin-right: auto}
+.nike .collection .tab-selector li{margin-right: 20px;}
+.nike .collection .tab-selector li:last-child{margin-right: 0}
+
+.nike .collection .tab-selector li a{font-size: 11px; font-weight: 400; font-family: NanumSquare; color: #b9b9b9}
+.nike .collection .tab-selector li.active a{color: #191919; border-bottom: 3px solid #191919; padding-bottom: 3px; font-weight: 800}
+
+.nike .winter .tit{margin-bottom: 30px}
+.nike .winter .nike-swiper2 img{position: relative}
+.nike .winter .nike-swiper2 p{position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); color: #fff; background: rgba(25, 25, 25, 0.5); padding: 5px 10px}
+.nike .nike-swiper2 img{width: 100%}
+
+.nike .logo{height: 65px; background: url("/Images/img/nike_logo_black.png") no-repeat 50% 50%; background-size: 83px 28px}
